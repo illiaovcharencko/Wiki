@@ -1,0 +1,30 @@
+
+*{
+    background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(121,166,219,1) 100%);
+font-family: 'Peddana', serif;
+}
+    .Color {color: blue;}
+    .background {background-color: chartreuse;
+    border: 2px solid navy;
+    border-radius: 10px;
+    display: inline}
+    .center, .current  {text-align: center;}
+    .table-main {
+        border: 1px solid gray;
+        padding: 10 5px;
+        margin-bottom: 2%;
+        float: right;
+    }
+    .table-sf {
+        border: 2px solid navy;
+    }
+    .photo {
+        width: 10%;
+        height: 50px;
+    }
+    .border-photo {
+        box-sizing: border-box;
+    border: 5px solid navy;
+    }
+    
